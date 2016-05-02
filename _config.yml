@@ -1,0 +1,28 @@
+name: thenight
+favicon: null
+layout_spectrum: 0.6703704483807087
+typography_spectrum: 0.8877116341609508
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6060234187170863
+  lightness: 0.7499636847060174
+  saturation: 0.8413771004416049
+  rhythmicContrast: 0.10072919446974993
+purpose: []
